@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="json-20220924">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/json-20220924.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JTattoo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/quaqua.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
